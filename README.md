@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, le
 
 ## 📫 How to reach me
 - Email: [pauspatel7296@gmail.com]
-- Instagram: [https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1] 
+- Instagram: [https://www.instagram.com/_.parshwa._/?__pwa=1] 
 
 ## ⚡ Fun fact
 - I'm a tech enthusiast and love playing around with new tools and technologies.
