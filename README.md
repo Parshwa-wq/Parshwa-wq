@@ -4,11 +4,12 @@ Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, le
 
 ## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshwa-wq&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&bg_color=FFFFCC&icon_color=FFD700&title_color=FFD700&text_color=000000)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshwa-wq&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa)
 
 ## My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&langs_count=5&theme=radical&bg_color=FFFFCC&icon_color=FFD700&title_color=FFD700&text_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&langs_count=5&theme=dark&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa)
+
 
 
 ## 🔭 What I'm working on
