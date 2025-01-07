@@ -2,6 +2,16 @@
 
 Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, learning, and building exciting projects.
 
+## About Me
+
+I'm **Parshwa**, a first-year **Computer Science and Engineering** (CSE) student at **[Your College Name]**. 🚀
+
+- 👨‍💻 **Branch**: Computer Science and Engineering (CSE)
+- 🎓 **Sem**: 1st Semester
+- 😎 Just a chill guy, exploring the world of code and technology while enjoying the journey!
+
+I’m passionate about coding, problem-solving, and learning new things. You’ll find me working on projects related to **Java**, **Python**, and anything that piques my interest in tech. 🌐
+
 ## My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshwa-wq&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa)
@@ -9,8 +19,6 @@ Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, le
 ## My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&langs_count=5&theme=dark&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa)
-
-
 
 ## 🔭 What I'm working on
 - Learning and building **Java** applications (Banking Systems, Budget Trackers, etc.)
@@ -21,12 +29,6 @@ Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, le
 - **Data Structures and Algorithms** in Java
 - Object-Oriented Programming (OOP) concepts
 - **Web development basics** (HTML, CSS, JavaScript)
-
-## 💬 Ask me about
-- **Java** programming
-- **Python** scripting and automation
-- Problem-solving and algorithm design
-- Tips for getting started with coding and tech
 
 ## 📫 How to reach me
 - Email: [pauspatel7296@gmail.com]
@@ -39,3 +41,5 @@ Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, le
 ---
 
 Feel free to check out my repositories and open issues or pull requests to contribute. I'm always open to collaboration! 🚀
+
+Happy coding! 💻✨
