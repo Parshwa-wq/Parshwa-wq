@@ -30,6 +30,8 @@ I’m passionate about coding, problem-solving, and learning new things. You’l
 - Object-Oriented Programming (OOP) concepts
 - **Web development basics** (HTML, CSS, JavaScript)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parshwa-wq&theme=black-ice)
+
 ## 📫 How to reach me
 - Email: [pauspatel7296@gmail.com]
 - Instagram: [@\_.parshwa.\_] 
