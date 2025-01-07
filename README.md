@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, learning, and building exciting projects.
 
+## My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshwa-wq&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
 ## 🔭 What I'm working on
 - Learning and building **Java** applications (Banking Systems, Budget Trackers, etc.)
 - Solving problems on **LeetCode**
