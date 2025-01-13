@@ -32,7 +32,8 @@ I’m passionate about coding, problem-solving, and learning new things. You’l
 
 ## 📫 How to reach me
 - Email: [pauspatel7296@gmail.com]
-- Instagram: [@\_.parshwa.\_] 
+- Instagram: [@\_.parshwa.\_]
+- LinkedIn: [www.linkedin.com/in/parshwa-patel-695a25331]
 
 ## ⚡ Fun fact
 - I'm a tech enthusiast and love playing around with new tools and technologies.
