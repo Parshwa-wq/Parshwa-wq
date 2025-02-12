@@ -40,7 +40,3 @@ I’m passionate about coding, problem-solving, and learning new things. You’l
 - I enjoy gaming and solving puzzles in my spare time.
 
 ---
-
-Feel free to check out my repositories and open issues or pull requests to contribute. I'm always open to collaboration! 🚀
-
-Happy coding! 💻✨
