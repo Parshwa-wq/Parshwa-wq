@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, le
 I'm **Parshwa**, a first-year **Computer Science and Engineering** (CSE) student at **LJIET**. 🚀
 
 - 👨‍💻 **Branch**: Computer Science and Engineering (CSE)
-- 🎓 **Sem**: 1st Semester
+- 🎓 **Sem**: 3rd Semester
 - 😎 Just a chill guy, exploring the world of code and technology while enjoying the journey!
 
 I’m passionate about coding, problem-solving, and learning new things. You’ll find me working on projects related to **Java**, **Python**, and anything that piques my interest in tech. 🌐
