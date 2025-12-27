@@ -1,6 +1,6 @@
 # Hello, I'm Parshwa!!👋
 
-Welcome to my GitHub profile! I'm a 1st-year student passionate about coding, learning, and building exciting projects.
+Welcome to my GitHub profile! I'm a 2nd-year student passionate about coding, learning, and building exciting projects.
 
 ## About Me
 
