@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a 2nd-year student passionate about coding, le
 
 ## About Me
 
-I'm **Parshwa**, a first-year **Computer Science and Engineering** (CSE) student at **LJIET**. 🚀
+I'm **Parshwa**, a second-year **Computer Science and Engineering** (CSE) student at **LJIET**. 🚀
 
 - 👨‍💻 **Branch**: Computer Science and Engineering (CSE)
-- 🎓 **Sem**: 3rd Semester
+- 🎓 **Sem**: 4th Semester
 - 😎 Just a chill guy, exploring the world of code and technology while enjoying the journey!
 
 I’m passionate about coding, problem-solving, and learning new things. You’ll find me working on projects related to **Java**, **Python**, and anything that piques my interest in tech. 🌐
