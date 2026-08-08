@@ -18,10 +18,11 @@ Passionate about autonomous systems, embedded electronics, and software architec
 * **Hardware Integration:** Integrating sensors, kinematics, and motor controllers for complex robotic simulations and real-world deployment.
 
 ### 📊 GitHub Stats
-*(Note: If stats fail to load, GitHub's proxy API may be temporarily throttling requests)*
+*(Note: Using stable proxy endpoints to bypass Vercel API limits)*
 
-[![Parshwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshwa-wq&show_icons=true&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
+[![Parshwa's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=parshwa-wq&show_icons=true&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
+[![Streak Stats](https://streak-stats.demolab.com?user=parshwa-wq&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshwa-patel-695a25331)
