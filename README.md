@@ -4,6 +4,7 @@
 Passionate about autonomous systems, embedded electronics, and software architecture. Experienced in bridging high-level robotic brains with low-level microcontrollers.
 
 ### 🛠 Tech Stack & Tools
+**Robotics & Embedded:**
 ![ROS 2](https://img.shields.io/badge/ros2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,11 +12,16 @@ Passionate about autonomous systems, embedded electronics, and software architec
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+**Software & Web:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 🔭 Current Focus & Experience
 * **Autonomous Robotics:** Architecting ROS 2 (Jazzy) pipelines on Raspberry Pi for autonomous navigation and mapping (DD Robocon).
 * **SLAM & Simulation:** Configuring Cartographer for LIDAR-only mapping and utilizing Foxglove Studio for real-time telemetry visualization.
 * **Embedded Systems:** Bridging communication between high-level controllers (Pi 5) and low-level actuators (Arduino Mega) via Micro-ROS and custom serial protocols.
-* **Hardware Integration:** Integrating sensors, kinematics, and motor controllers for complex robotic simulations and real-world deployment.
+* **Software & Web Apps:** Building traditional software applications (Banking Systems, Budget Trackers) and intuitive web interfaces utilizing Java, HTML, CSS, and JS.
 
 ### 📊 GitHub Stats
 *(Note: Using stable proxy endpoints to bypass Vercel API limits)*
