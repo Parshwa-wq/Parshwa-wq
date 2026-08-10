@@ -53,7 +53,7 @@ Passionate about autonomous systems, embedded electronics, and software architec
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>📁 SETU (4th Year Project)</h3>
+<h3>📁 SETU</h3>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Fullstack-000000?style=flat-square" />
 <br><br>
 <p>Advanced full-stack platform built as a primary 4th-year engineering project.</p>
