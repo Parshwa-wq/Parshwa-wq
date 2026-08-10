@@ -74,7 +74,7 @@ Passionate about autonomous systems, embedded electronics, and software architec
 <h3>🚀 rcBot (Robocon 2026)</h3>
 <img src="https://img.shields.io/badge/ROS2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <br><br>
-<p>Firmware for R1 manual controlled bot. The brain bridging microcomputers and ESP32s.</p>
+<p>Firmware for R1 manual controlled bot used in ROBOCON 2026. The brain bridging microcomputers and ESP32s.</p>
 <a href="https://github.com/Parshwa-wq/rcBot"><b>Explore Repository →</b></a>
 </td>
 <td width="50%" valign="top">
