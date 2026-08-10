@@ -32,7 +32,7 @@ Passionate about autonomous systems, embedded electronics, and software architec
 
 ---
 
-### 📂 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&vCenter=true&width=435&lines=College+Projects" alt="Typing SVG" />
+### 📂 College Projects
 
 <table>
 <tr>
@@ -51,11 +51,22 @@ Passionate about autonomous systems, embedded electronics, and software architec
 <a href="https://github.com/Parshwa-wq/Wallet"><b>Explore Repository →</b></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📁 SETU (4th Year Project)</h3>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Fullstack-000000?style=flat-square" />
+<br><br>
+<p>Advanced full-stack platform built as a primary 4th-year engineering project.</p>
+<a href="https://github.com/Parshwa-wq/SETU"><b>Explore Repository →</b></a>
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 <br>
 
-### 🤖 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22314E&vCenter=true&width=500&lines=Robotics+%26+Personal+Projects;ROS2+%2B+ESP32+Systems" alt="Typing SVG" />
+### 🤖 Robotics & Personal Projects
 
 <table>
 <tr>
@@ -72,17 +83,6 @@ Passionate about autonomous systems, embedded electronics, and software architec
 <br><br>
 <p>Autonomous navigation robot built to learn SLAM mapping, Nav2, and Gazebo simulations.</p>
 <a href="https://github.com/Parshwa-wq/encRobo"><b>Explore Repository →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🚀 SETU (4th Year Project)</h3>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Fullstack-000000?style=flat-square" />
-<br><br>
-<p>Advanced full-stack platform built as a primary 4th-year engineering project.</p>
-<a href="https://github.com/Parshwa-wq/SETU"><b>Explore Repository →</b></a>
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
