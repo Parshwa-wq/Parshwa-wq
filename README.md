@@ -32,45 +32,59 @@ Passionate about autonomous systems, embedded electronics, and software architec
 
 ---
 
-### 📂 College Projects
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Parshwa-wq/Encryption-Decryption-Encoding-Decoding">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=Encryption-Decryption-Encoding-Decoding&theme=radical&show_owner=true&border_radius=10" alt="Encryption Project" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Parshwa-wq/Wallet">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=Wallet&theme=radical&show_owner=true&border_radius=10" alt="Wallet Project" width="100%"/>
-      </a>
-    </td>
-  </tr>
+### 📂 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&vCenter=true&width=435&lines=College+Projects" alt="Typing SVG" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📁 Encryption-Decryption</h3>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=security&logoColor=white" />
+<br><br>
+<p>Convert strings to encoding/encrypted format using custom cryptography algorithms.</p>
+<a href="https://github.com/Parshwa-wq/Encryption-Decryption-Encoding-Decoding"><b>Explore Repository →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>📁 Secure Wallet</h3>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<br><br>
+<p>CLI-based secure wallet implementing unique cryptographic execution flows.</p>
+<a href="https://github.com/Parshwa-wq/Wallet"><b>Explore Repository →</b></a>
+</td>
+</tr>
 </table>
 
-### 🤖 Robotics & Personal Projects
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Parshwa-wq/rcBot">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=rcBot&theme=radical&show_owner=true&border_radius=10" alt="rcBot Project" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Parshwa-wq/encRobo">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=encRobo&theme=radical&show_owner=true&border_radius=10" alt="encRobo Project" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Parshwa-wq/SETU">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=SETU&theme=radical&show_owner=true&border_radius=10" alt="SETU Project" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
+<br>
+
+### 🤖 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22314E&vCenter=true&width=500&lines=Robotics+%26+Personal+Projects;ROS2+%2B+ESP32+Systems" alt="Typing SVG" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 rcBot (Robocon 2026)</h3>
+<img src="https://img.shields.io/badge/ROS2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<br><br>
+<p>Firmware for R1 manual controlled bot. The brain bridging microcomputers and ESP32s.</p>
+<a href="https://github.com/Parshwa-wq/rcBot"><b>Explore Repository →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🚀 encRobo (Autonomous)</h3>
+<img src="https://img.shields.io/badge/ROS2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Nav2_&_SLAM-00599C?style=flat-square" />
+<br><br>
+<p>Autonomous navigation robot built to learn SLAM mapping, Nav2, and Gazebo simulations.</p>
+<a href="https://github.com/Parshwa-wq/encRobo"><b>Explore Repository →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 SETU (4th Year Project)</h3>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Fullstack-000000?style=flat-square" />
+<br><br>
+<p>Advanced full-stack platform built as a primary 4th-year engineering project.</p>
+<a href="https://github.com/Parshwa-wq/SETU"><b>Explore Repository →</b></a>
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 
