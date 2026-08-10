@@ -24,7 +24,7 @@ Passionate about autonomous systems, embedded electronics, and software architec
 * **Software & Web Apps:** Building traditional software applications (Banking Systems, Budget Trackers) and intuitive web interfaces utilizing Java, HTML, CSS, and JS.
 
 ### 📊 GitHub Stats
-*(Note: Using stable proxy endpoints to bypass Vercel API limits)*
+<!--*(Note: Using stable proxy endpoints to bypass Vercel API limits)*-->
 
 [![Parshwa's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=parshwa-wq&show_icons=true&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
