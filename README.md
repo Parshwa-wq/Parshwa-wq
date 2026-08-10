@@ -30,6 +30,50 @@ Passionate about autonomous systems, embedded electronics, and software architec
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parshwa-wq&layout=compact&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
 [![Streak Stats](https://streak-stats.demolab.com?user=parshwa-wq&theme=radical&hide_border=true)](https://github.com/parshwa-wq)
 
+---
+
+### 📂 College Projects
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Parshwa-wq/Encryption-Decryption-Encoding-Decoding">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=Encryption-Decryption-Encoding-Decoding&theme=radical&show_owner=true&border_radius=10" alt="Encryption Project" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Parshwa-wq/Wallet">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=Wallet&theme=radical&show_owner=true&border_radius=10" alt="Wallet Project" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Robotics & Personal Projects
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Parshwa-wq/rcBot">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=rcBot&theme=radical&show_owner=true&border_radius=10" alt="rcBot Project" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Parshwa-wq/encRobo">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=encRobo&theme=radical&show_owner=true&border_radius=10" alt="encRobo Project" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Parshwa-wq/SETU">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parshwa-wq&repo=SETU&theme=radical&show_owner=true&border_radius=10" alt="SETU Project" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshwa-patel-695a25331)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauspatel7296@gmail.com)
